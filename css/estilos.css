@@ -130,17 +130,17 @@ textarea{
     text-align: center;
     border: 0.1rem solid #e3b056;
     border-radius: 1rem;
-    margin-left: 5rem;
-    margin-right: 5rem;
-    width: 32vw;
-    height: 40vh;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    width: 25vw;
+    height: 45vh;
 
 }
 input{
 text-align: center;
 margin-top: 10px;
 margin-bottom: 10px;
-width: 30rem;
+width: 30vw;
 margin-left: 0.5rem;
 margin-right: 5rem;
 border: 0.1rem solid #e3b056;
@@ -151,7 +151,7 @@ color: black;
 }
 input.boton{
 width: 15vw;
-margin-left: 35%;
+margin-left: 28%;
 }
 input.boton:hover{
     transform:  scale(1.05);  
