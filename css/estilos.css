@@ -1,7 +1,8 @@
 html{
-    font-family: 'Gotham Condensed', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Teko', sans-serif;
     overflow: auto;
-    font-size: 1.25rem;
+    font-size: 1.55rem;
 }
 *{
     box-sizing: border-box;
