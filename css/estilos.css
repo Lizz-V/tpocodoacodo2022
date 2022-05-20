@@ -80,7 +80,7 @@ img.acerca{
     height: 60vh;
     margin-right: 50px;
     border: solid 0.1rem #e3b056;;
-    border-radius: 10px;
+    border-radius: 1rem;
     margin-bottom: 10px;
 }
 div.maps{
@@ -89,7 +89,7 @@ div.maps{
 }
 iframe.maps{
     border: 0.1rem solid #e3b056;
-    border-radius: 10px;
+    border-radius: 1rem;
 }
 .acerca{
     text-align: left;
