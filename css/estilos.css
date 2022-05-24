@@ -188,6 +188,12 @@ input.boton:hover{
 }
 @media screen and (max-width: 500px) {
 
+    *{
+        margin: 0%;
+    }
+    html{
+        font-size: 1.1rem;
+    }
      .flex_header{
         display: block;
         float: left;
@@ -196,7 +202,7 @@ input.boton:hover{
     .lista{
         display: block;
         float: left;
-        width: 90vw;
+        width: 93vw;
         margin-top: 0.5px;
         margin-bottom: 0.5px;
     }
@@ -227,6 +233,7 @@ input.boton:hover{
     .grid-conteiner{
         display: grid;
         width: 93vw;
+        margin-left: 1%;
     } 
     .formulario{
     width: 35vw;
